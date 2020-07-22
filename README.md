@@ -130,7 +130,7 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 
 - HUDS.TF Discord server - For help fixing the specific things, by name:
 
-    - Hypnotize - Anchor point references
+    - Hypnotize, Whisker - Anchor point references
 
     - _Revan - Linking me to the server directly, animated color help
 
@@ -141,5 +141,7 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 - teamfortress.tv - For specific problems like [this](https://www.teamfortress.tv/8910/hudlayout-res-question) and for threads like [this](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
 
     - btw whoever made that one pegging thread is a legend even if it did take some dark turns from it's origin on the later pages, the first few were still funny
-    
+
+- Doodle - For this similarly great guide, even if it's a bit old: doodlesstuff.com/?p=tf2hud&page=resource
+
 > another btw: koth_king is the best map and I wouldn't have chosen any other map to test on
