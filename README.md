@@ -138,6 +138,6 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 
 - teamfortress.tv - For specific problems like [this](https://www.teamfortress.tv/8910/hudlayout-res-question) and for threads like [this](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
 
-- Doodle - For this similarly great guide, even if it's a bit old: doodlesstuff.com/?p=tf2hud&page=resource
+- Doodle - For this similarly great guide, even if it's a bit old: [Doodle's Stuff](doodlesstuff.com/?p=tf2hud&page=resource)
 
 > another btw: koth_king is the best map and I wouldn't have chosen any other map to test on
