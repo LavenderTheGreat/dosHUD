@@ -2,7 +2,7 @@
 
 ### A hud for TF2 attempting to emulate that of old DOS games.
 
-dosHUD is that legendary hud that people have seemingly asked for [time (24 days ago, 25 upvotes)](https://www.reddit.com/r/tf2/comments/hgxdvz/looking_for_a_tf2_hud_that_looks_similar_to_this/) and [time (27 days ago, 3.7k upvotes)](https://www.reddit.com/r/tf2/comments/hgt9e6/is_there_a_hud_that_looks_similar_to_this/) and [time (2 years ago)](https://gamebanana.com/requests/10021) (you may see here that the request is finished, it actually never did get finished: [here](https://gamebanana.com/wips/48665)) again and for some odd reason nobody ever actually made, or rather finished.
+dosHUD is that legendary hud that people have seemingly asked for [time (27th of June 2020, 25 upvotes)](https://www.reddit.com/r/tf2/comments/hgxdvz/looking_for_a_tf2_hud_that_looks_similar_to_this/) and [time (27th of June 2020, 3.7k upvotes)](https://www.reddit.com/r/tf2/comments/hgt9e6/is_there_a_hud_that_looks_similar_to_this/) and [time (Deadline: 6th of June 2018)](https://gamebanana.com/requests/10021) (you may see here that the request is finished, it actually never did get finished: [here](https://gamebanana.com/wips/48665)) again and for some odd reason nobody ever actually made, or rather finished.
 
 This started to really peeve me off so here I am with a TF2 hud based on the image from 27 days ago... 
 
@@ -139,8 +139,6 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 - JarateKing - For this amazing guide: [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference)
 
 - teamfortress.tv - For specific problems like [this](https://www.teamfortress.tv/8910/hudlayout-res-question) and for threads like [this](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
-
-    - btw whoever made that one pegging thread is a legend even if it did take some dark turns from it's origin on the later pages, the first few were still funny
 
 - Doodle - For this similarly great guide, even if it's a bit old: doodlesstuff.com/?p=tf2hud&page=resource
 
