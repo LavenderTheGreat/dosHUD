@@ -1,4 +1,13 @@
-# dosHUD
+<p align="center">
+
+<img src="logo.png" width=200px>
+
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/34808998/88563539-020f9180-d02a-11ea-880e-c015740d0c21.png" width=500px>
+
+</p>
 
 ### A hud for TF2 attempting to emulate that of old DOS games.
 
@@ -141,3 +150,13 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 - Doodle - For this similarly great guide, even if it's a bit old: [Doodle's Stuff](doodlesstuff.com/?p=tf2hud&page=resource)
 
 > another btw: koth_king is the best map and I wouldn't have chosen any other map to test on
+
+## Screenshots
+
+> Screenshots can be submitted at the [screenshot thread.](https://github.com/LavenderTheGreat/dosHUD/issues/5)
+
+![image](https://user-images.githubusercontent.com/34808998/88563602-118eda80-d02a-11ea-9348-8e7c28331a5c.png)
+
+![image](https://user-images.githubusercontent.com/34808998/88563501-f4f2a280-d029-11ea-8a0a-8dad5e2eac1b.png)
+
+![image](https://user-images.githubusercontent.com/34808998/88563475-edcb9480-d029-11ea-9284-e0f19e3a6370.png)
