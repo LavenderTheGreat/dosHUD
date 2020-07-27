@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$basetexture" "vgui/replay/thumbnails/dosHUD/l_kills"
+}
