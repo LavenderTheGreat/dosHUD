@@ -70,15 +70,15 @@
 		"xpos_minmode"	"15"	[$WIN32]
 		"ypos_minmode"	"r54"	[$WIN32]
 		"wide_minmode"	"37"
-		"tall"			"80"
 		"xpos"			"57"	[$X360]
 		"ypos"			"r110"	[$X360]
 		"zpos"			"2"
 
         // Center area
-		"xpos"			"c-40"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
-		"wide"			"80"
+		"xpos"			"c-40+2"	[$WIN32]
+		"ypos"			"2"	[$WIN32]
+		"wide"			"77"
+		"tall"			"77"
 		"tall_minmode"	"37"
 		"visible"		"1"
 		"enabled"		"1"
