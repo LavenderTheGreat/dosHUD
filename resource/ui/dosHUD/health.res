@@ -12,7 +12,7 @@
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"5"
-		"wide"			"120"
+		"wide"			"400"
 		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -77,40 +77,17 @@
 		"font"			"DefaultSmall"
 		"fgcolor"		"TanDark"
 	}
-
-    "PlayerStatusHealthImage"
-	{
-		"xpos"			"120"
-		"ypos"			"80"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
-	}		
+	
 	"PlayerStatusHealthImageBG"
 	{
-		"xpos"			"120"
-		"ypos"			"80"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
+		"xpos"			"00"
+		"ypos"			"00"
 		"image"			"../vgui/replay/thumbnails/dosHUD/none"
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
-		"xpos"			"120"
-		"ypos"			"80"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
+		"xpos"			"0"
+		"ypos"			"0"
 		"image"			"../vgui/replay/thumbnails/dosHUD/none"
 	}
 }

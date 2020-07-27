@@ -4,14 +4,24 @@
     {
         "ControlName"                                 "EditablePanel"
         "fieldName"                                     "PlayerStatusAnchor"
-        "xpos"                                         "0"
-        "ypos"                                         "0"
-        "wide"                                         "10"
-        "tall"                                         "0"
+        "xpos"                                         "280"
+        "ypos"                                         "1000"
+        "wide"                                         "120"
+        "tall"                                         "80"
         "visible"                                     "1"
         "enabled"                                     "1"
 		"bgcolor_override"											"0 0 0 0"
     }
+
+	// I tried and tried to decouple it from this but it hasn't worked damn it, ah I guess it has to be a placeholder because at least the anchor *slightly* works
+    // IT doesn't seem like this will ever work. A shame but I guess it can wait, most main buffs you know of in other formats
+	"PlayerStatusHealthImage"
+	{
+		"xpos"			"0"
+		"ypos"			"1000"
+		"wide"			"0"
+		"tall"			"0"
+	}		
 
     "PlayerStatusBleedImage"
 	{
