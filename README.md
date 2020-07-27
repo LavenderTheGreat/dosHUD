@@ -7,6 +7,11 @@
 
 <img src="https://user-images.githubusercontent.com/34808998/88563539-020f9180-d02a-11ea-880e-c015740d0c21.png" width=500px>
 
+<br>
+<br>
+
+<b><!--<a href="">Gamebanana</a> - <a href="">Huds.tf</a> - --><a href="https://github.com/LavenderTheGreat/dosHUD">Github</a></b>
+
 </p>
 
 ### A hud for TF2 attempting to emulate that of old DOS games.
@@ -32,6 +37,24 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 - Absolutely zero intuitive-ness, much like the original DooM
 
 - Cleanly overlaid over the original HUD files, anything not touched by dosHUD is left in it's default state.
+
+## Running from the releases
+
+1. Find a release [here](https://github.com/LavenderTheGreat/dosHUD/releases/latest) and hit assets, then download the source code as a Zip file (unless there's a release above it)
+
+2. Navigate to your TF2 custom directory
+
+3. Place the folder from the releases zip into the custom directory such that resources is in ``custom/dosHUD/resources``.
+
+4. Launch Team Fortress 2
+
+## Running from the repo
+
+1. Navigate to your TF2 custom directory
+
+2. ``git clone https://github.com/LavenderTheGreat/dosHUD.git``
+
+3. Launch Team Fortress 2
 
 ## FAQ
 
