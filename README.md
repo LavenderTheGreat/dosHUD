@@ -72,8 +72,6 @@ This started to really peeve me off so here I am with a TF2 hud based on the ima
 
     - Capture The Flag
 
-    - Mannpower
-
     - Payload
 
     - Payload Race
