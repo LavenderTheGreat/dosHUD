@@ -1,17 +1,11 @@
 <p align="center">
-
-<img src="logo.png" width=200px>
-
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/34808998/88563539-020f9180-d02a-11ea-880e-c015740d0c21.png" width=500px>
-
-<br>
-<br>
-
-<b><!--<a href="">Gamebanana</a> - <a href="">Huds.tf</a> - --><a href="https://github.com/LavenderTheGreat/dosHUD">Github</a></b>
-
+    <img src="logo.png" width=200px>
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/34808998/88563539-020f9180-d02a-11ea-880e-c015740d0c21.png" width=500px>
+    <br>
+    <br>
+    <b><!--<a href="">Gamebanana</a> - <a href="">Huds.tf</a> - --><a href="https://github.com/LavenderTheGreat/dosHUD">Github</a></b>
 </p>
 
 ### A hud for TF2 attempting to emulate that of old DOS games.
