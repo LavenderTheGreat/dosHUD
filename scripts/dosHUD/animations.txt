@@ -1,12 +1,16 @@
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
+	// go red
 	Animate	PlayerStatusHealthValue 	FgColor		"HUDDeathWarning"		Linear 0.0 0.0
+	// go tan after 0.25 seconds
 	Animate	PlayerStatusHealthValue 	FgColor		"TanLight"			Linear 0.25 0.0
 	
+	// reset after 0.5 seconds
 	RunEvent HudHealthDyingPulseLoop	0.5
 }
 
+// End ammo pulse by resetting the colour
 event HudHealthDyingPulseStop
 {
 	StopEvent HudHealthDyingPulse 0.0
@@ -14,6 +18,7 @@ event HudHealthDyingPulseStop
 	Animate	PlayerStatusHealthValue 	FgColor		"TanLight"			Linear 0 0.001
 }
 
+// this is basically a repeat of the above
 // Low Ammo Pulse
 event HudLowAmmoPulse
 {

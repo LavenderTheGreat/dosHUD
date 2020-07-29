@@ -1,5 +1,6 @@
 "Resource/UI/HudPlayerClass.res"
 {
+	// Background on 2D classes, bar
 	"PlayerStatusClassImageBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -21,6 +22,8 @@
 		"teambg_3_lodef"	"../vgui/replay/thumbnails/dosHUD/barBlu"
 	}
 
+	// Background on 3D classes, bar
+	// TODO: merge these into a new element, then banish both class panels
 	"classmodelpanelbg"
 	{
 		"ControlName"	"CTFImagePanel"
